@@ -6,7 +6,10 @@ kjjk a
 
 - [ ] this is a checkbox
 - [x] this is a checkedbox
-- <del> [x] this is a cheched box </del>
+- [x] <del> this is a cheched box </del>
+
+This formating for DEL looks off
+- <del> [x] this is a checked box </del>
 ---
 
 # to do list 

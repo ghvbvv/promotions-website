@@ -2,10 +2,11 @@
 list for promotion website 
 
 # reminders
-- none yet 
+- do stuff for website 
+- do stuff in this readme file 
 
 - [ ] 
-- [x] this is a checkedbox
+- [ ] 
 - [x] <del> this is a cheched box </del>
 
 This formating for DEL looks off
@@ -15,6 +16,6 @@ This formating for DEL looks off
 # to do list 
 - [ ] create website
 
-<a href="https://en.wikipedia.org/wiki/Main_Page">Random Wikipedia page</a>
+
 
 ---

@@ -1,6 +1,9 @@
 # promotion website
 list for promotion website 
 
+# topic 
+weightlifting 
+
 # reminders
 - do stuff for website 
 - do stuff in this readme file 
@@ -15,7 +18,6 @@ This formating for DEL looks off
 
 # to do list 
 - [ ] create website
-
 
 
 ---

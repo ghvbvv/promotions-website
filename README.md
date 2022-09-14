@@ -12,21 +12,19 @@ weightlifting
 - meal prep
 - information about general health
 
+---
 
 # reminders
-- do stuff for website 
-- do stuff in this readme file 
-
-- [ ] 
-- [ ] 
+- [ ] do stuff for website 
+- [x] do stuff in this readme file 
 - [x] <del> this is a cheched box </del>
 
 This formating for DEL looks off
 - <del> [x] this is a checked box </del>
----
 
 # to do list 
 - [ ] create website
-
+- [ ] find images and videos for website
+- [ ] figure out how to add images and videos
 
 ---

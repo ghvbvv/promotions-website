@@ -22,8 +22,8 @@ weightlifting
 # to do list 
 - [ ] create website
 - [ ] find images and videos for website
-- [ ] figure out how to add images and videos
-- [ ] figure out how to embed links
+- [x] figure out how to add images and videos
+- [x] figure out how to embed links
 - [ ] make who am i list 
 ---
 

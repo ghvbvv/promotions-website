@@ -4,7 +4,7 @@ list for promotion website
 # topic 
 weightlifting 
 
-# ***ideas***
+# ideas
 - create a blog for website
 - blog type website
 - have advice for website 
@@ -26,3 +26,14 @@ weightlifting
 - [ ] learn how to embed links
 
 ---
+
+# example images and videos 
+
+<a href="https://www.youtube.com/watch?v=l_7MvLEB-Xo"
+   target="_blank">
+<img src="https://www.youtube.com/watch?v=l_7MvLEB-Xo"
+     alt="example video"
+     width="240"
+     height="180"
+     border="10" />
+</a>

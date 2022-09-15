@@ -15,19 +15,19 @@ weightlifting
 ---
 
 # reminders
-- [ ] do stuff for website 
-- [x] do stuff in this readme file 
-- [ ] find stuff
+- do stuff for website 
+- do stuff in this readme file 
+- find stuff
 
 # to do list 
 - [ ] create website
 - [ ] find images and videos for website
 - [ ] figure out how to add images and videos
 - [ ] figure out how to embed links
-
+- [ ] make who am i list 
 ---
 
-# example images and videos 
+# example images and videos and links 
 
 <a href="https://www.youtube.com/watch?v=l_7MvLEB-Xo"
    target="_blank">
@@ -38,3 +38,6 @@ weightlifting
      border="10" />
 </a>
 
+<a href="https://en.wikipedia.org/wiki/Main_Page">Example Video</a>
+
+![alt text](https://wallpaperaccess.com/full/1137905.jpg "Example Image")

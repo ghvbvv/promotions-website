@@ -11,6 +11,8 @@ weightlifting
 - supplement reccomendation 
 - meal prep
 - information about general health
+- first page could be an intro
+- other pages could go more in depth
 
 ---
 
@@ -25,6 +27,7 @@ weightlifting
 - [x] figure out how to add images and videos
 - [x] figure out how to embed links
 - [ ] make who am i list 
+- [ ] 
 ---
 
 # example images and videos and links 

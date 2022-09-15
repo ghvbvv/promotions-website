@@ -23,7 +23,7 @@ weightlifting
 - [ ] create website
 - [ ] find images and videos for website
 - [ ] figure out how to add images and videos
-- [ ] learn how to embed links
+- [ ] figure out how to embed links
 
 ---
 
@@ -31,9 +31,10 @@ weightlifting
 
 <a href="https://www.youtube.com/watch?v=l_7MvLEB-Xo"
    target="_blank">
-<img src="https://www.youtube.com/watch?v=l_7MvLEB-Xo"
+<img src="https://img.youtube.com/vi/l_7MvLEB-Xo/0.jpg"
      alt="example video"
      width="240"
      height="180"
      border="10" />
 </a>
+

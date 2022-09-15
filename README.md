@@ -4,7 +4,7 @@ list for promotion website
 # topic 
 weightlifting 
 
-# ideas
+# ***ideas***
 - create a blog for website
 - blog type website
 - have advice for website 
@@ -17,14 +17,12 @@ weightlifting
 # reminders
 - [ ] do stuff for website 
 - [x] do stuff in this readme file 
-- [x] <del> this is a cheched box </del>
-
-This formating for DEL looks off
-- <del> [x] this is a checked box </del>
+- [ ] find stuff
 
 # to do list 
 - [ ] create website
 - [ ] find images and videos for website
 - [ ] figure out how to add images and videos
+- [ ] learn how to embed links
 
 ---

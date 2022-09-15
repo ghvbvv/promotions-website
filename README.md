@@ -40,7 +40,5 @@ weightlifting
 
 <a href="https://en.wikipedia.org/wiki/Main_Page">Example Video</a>
 
-![alt text](https://i.pinimg.com/736x/cb/dc/38/cbdc38861144e29b9d923d92846339f0.jpgs "Example Image")
-
-#### resized images
+![alt text](https://wallpaperaccess.com/full/1137905.jpg "Example Image")
 

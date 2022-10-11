@@ -3,11 +3,16 @@
     <head>
         <!-- Used by the Keyboard-->
         <meta charset=utf-8>
+        <style>
+            h1 {text-align: center;}
+            main {text-align: center;}
+        </style>        
+
 
         <title>Promotions Website</title>
 
-        <meta name="author" content="Mark Mercer">
-        <meta name="description" content="First Webpage Learning HTML by building simple website">
+        <meta name="author" content="Phoenix Beardy">
+        <meta name="description" content="First real type of website">
         <meta name="keywords" content="boilerplate starter code HTML learning">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <!-- Content give value for name or http-equiv attribute, text entry in string or array string -->
@@ -23,18 +28,94 @@
         <!-- meta http-equiv="content-type" content="text/html; charset=UTF-8" -->
         <!-- Already specified in the charset above-->
 
+        <style>
+               * {
+                box-sizing: border-box;
+                font-size:2vw;
+             }
+
+             .div {border: thin dotted red;}
+
+             .flex-container {
+                display: flex;
+                flex-wrap: nowrap;
+                background-color: lightblue;
+             }
+             .flex-container > footer {
+                background-color: #f1f1f1;
+                width: 100px;
+                margin: 10px;
+                text-align: center;
+                line-height: 75px;
+                font-size: 30px;
+             }
+             .header{
+                border: 5px solid rgb(0, 0, 0);
+                padding: 15px; 
+                font-size:4vw;  
+             }
+
+             .menu{
+                width: 25%;
+                float: left;
+                padding: 15px;
+                border: 1px solid rgb(19,0,128)
+             }
+             .nav{
+                width: 50%;
+                float: right;
+                padding: 15px;
+                border: 1px solid rgb(52, 7, 158)
+
+             }
+             .main{
+                width: 100%;
+                float: middle;
+                padding: 10px;
+                border: 1px solid rgb(19,0,128)
+             }
+             .aside{
+                width: 100%;
+                float: middle;
+                padding: 15px;
+                border: 1px solid rgb(19,0,128)
+             }
+             .footer{
+                padding: 15px;
+                border: 1px solid rgb(19,0,128)
+             }          
+
+        </style>
+
+
+
         <noscript>Running JavaScript is not necessary in the HTML Page ... FYI: your Feature to execute scripts is turned off</noscript>
 
     </head>
 
 <body>
 
-<header><h1>Promotions Website</h1></header>
+<header class="header"><h1>Promotions Website</h1></header>
+<menu></menu>
+<navigation></navigation>
+<div><main>sentance</div></main>
+<aside></aside>
+<footer class="flex-container">
+    <div>1</div>
+    <div>2</div>
+    <div>3</div>  
+    <div>4</div>
+    <div>5</div>
+    <div>6</div>  
+    <div>7</div>
+    <div>8</div>
+</footer>
 
 
 </body>
 
-
+<footer>
+</footer>
 
 
 </html>

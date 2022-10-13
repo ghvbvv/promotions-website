@@ -3,9 +3,18 @@
     <head>
         <!-- Used by the Keyboard-->
         <meta charset=utf-8>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
         <style>
             h1 {text-align: center;}
             main {text-align: center;}
+            h3 {text-align: center;}
+
+            body {
+             background-image: url('https://coolbackgrounds.io/images/backgrounds/index/ranger-4df6c1b6.png');
+             background-repeat: no-repeat;
+             background-attachment: fixed;  
+             background-size: cover;
+            }
         </style>        
 
 
@@ -43,7 +52,7 @@
              }
              .flex-container > div {
                 background-color: #f1f1f1;
-                width: 100px;
+                width: 50%;
                 margin: 10px;
                 text-align: center;
                 line-height: 75px;
@@ -83,11 +92,42 @@
              .footer{
                 padding: 15px;
                 border: 1px solid rgb(19,0,128)
-             }          
+             }
+             .dropbtn {
+               background-color: #04AA6D;
+               color: white;
+               padding: 16px;
+               font-size: 16px;
+               border: none;
+             }
 
+             .dropdown {
+               position: relative;
+               display: inline-block;
+             }
+
+             .dropdown-content {
+               display: none;
+               position: absolute;
+               background-color: #f1f1f1;
+               min-width: 160px;
+               box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+               z-index: 1;
+             }
+
+             .dropdown-content a {
+              color: black;
+              padding: 12px 16px;
+              text-decoration: none;
+              display: block;
+             }
+
+             .dropdown-content a:hover {background-color: #ddd;}
+
+             .dropdown:hover .dropdown-content {display: block;}
+
+             .dropdown:hover .dropbtn {background-color: #3e8e41;}
         </style>
-
-
 
         <noscript>Running JavaScript is not necessary in the HTML Page ... FYI: your Feature to execute scripts is turned off</noscript>
 
@@ -95,22 +135,26 @@
 
 <body>
 
+   <div class="dropdown">
+      <button class="dropbtn">Dropdown</button>
+      <div class="dropdown-content">
+        <a href="#">Link 1</a>
+        <a href="#">Link 2</a>
+        <a href="#">Link 3</a>
+      </div>
+    </div>
+
 <header class="header"><h1>Promotions Website</h1></header>
-<div><menu class="menu"><h1>menu</h1></div></menu>
+<div><menu class="menu"><h3>menu</h3></div></menu>
 <navigation>jjjrnjwrj</navigation>
-<div><main>sentance</div></main>
-<aside> feehfhs</aside>
+<div><main>this is a site about wieglifting</div></main>
+<aside>aside</aside>
 <div><footer class="flex-container">
     <div>1</div>
     <div>2</div>
     <div>3</div>  
     <div>4</div>
-    <div>5</div>
-    <div>6</div>  
-    <div>7</div>
-    <div>8</div>
 </footer></div>
-
 
 </body>
 
